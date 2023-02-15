@@ -11,5 +11,6 @@ class Hello{
 		System.out.println("Hello yy");
 
 		System.out.println("Hello gg");
+		System.out.println("h");
 	}
 }
