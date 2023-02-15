@@ -8,5 +8,6 @@ class Hello{
 		
 		System.out.println("Hello hh");
 		
+		System.out.println("Hello yy");
 	}
 }
