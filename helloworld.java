@@ -6,7 +6,7 @@ class Hello{
 
 		System.out.println("Hello gg");
 		
-		System.out.println("Hello hh");
+		System.out.println("Hello hyuh");
 		
 		System.out.println("Hello yy");
 
